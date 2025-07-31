@@ -1,0 +1,9 @@
+pandas
+yfinance
+scipy
+streamlit
+requests
+beautifulsoup4
+lxml
+newsapi-python
+python-dotenv
