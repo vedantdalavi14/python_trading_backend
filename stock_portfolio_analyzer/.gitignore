@@ -1,0 +1,2 @@
+# Ignore the .env file to keep API keys and other secrets out of version control
+.env
