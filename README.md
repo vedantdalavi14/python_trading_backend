@@ -28,8 +28,8 @@ Follow these steps to set up and run the project locally.
 ### 2. Clone the Repository
 
 ```bash
-git clone <your-repository-url>
-cd <repository-directory>
+git clone <https://github.com/vedantdalavi14/python_trading_backend>
+cd <stock_portfolio_analyzer>
 ```
 
 ### 3. Create a Virtual Environment (Recommended)
